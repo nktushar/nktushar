@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atikfaisalemon&label=Profile%20views&color=blueviolet&style=flat" alt="atikfaisalemon" /> </p>
 
-<h2 align="left">🔭 I’m currently working on:</h2>
+<h2 align="left">🔭 Currently working on:</h2>
 <p align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -13,8 +13,8 @@
 
 <br>
 
-<h2 align="left">🌱 I’m currently learning:</h2>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+<h2 align="left">🌱 Currently learning:</h2>
+<p align="left"> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/> </a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/ionicframeworkcom/7fddb358-12bb-4d21-bd5a-27e8dbcf55e8_ionic+logo+blue.svg?auto=compress,format" alt="ionic" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Familier with:</h4>
 <p align="left">
