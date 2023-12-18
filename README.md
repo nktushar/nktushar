@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="left">🌱 Currently learning:</h2>
+<h2 align="left">🌱 Learning:</h2>
 <p align="left"> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/> </a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/ionicframeworkcom/7fddb358-12bb-4d21-bd5a-27e8dbcf55e8_ionic+logo+blue.svg?auto=compress,format" alt="ionic" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Familier with:</h4>
