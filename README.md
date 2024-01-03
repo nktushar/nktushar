@@ -31,7 +31,7 @@
 <a href="https://fb.com/nk.tushar.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nazmul Kabir" height="30" width="40" /></a>
 <a href="https://instagram.com/nk_tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nazmul Kabir" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me **nazmulkabirtushar@gmail.com**
+- 📫 Reach me through email: nazmulkabirtushar@gmail.com
 
 <br>
 <br>
