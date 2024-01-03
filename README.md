@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazmul Kabir</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atikfaisalemon&label=Profile%20views&color=blueviolet&style=flat" alt="atikfaisalemon" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nktushar&label=Profile%20views&color=blueviolet&style=flat" alt="nktushar" /> </p>
 
 <h2 align="left">🔭 Currently working with:</h2>
 <p align="left">  
