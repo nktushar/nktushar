@@ -38,6 +38,7 @@
 <br>
 
 <p align="center">
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=nktushar&show_icons=true&locale=en" alt="nktushar" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nktushar&show_icons=true&locale=en&layout=compact" alt="nktushar" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=nktushar&show_icons=true&locale=en" alt="nktushar" />
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nktushar&show_icons=true&locale=en&layout=compact" alt="nktushar" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mktushar&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
