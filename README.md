@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Nazmul Kabir</h2>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nktushar&label=Profile%20views&color=blueviolet&style=flat" alt="nktushar" /> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nktushar&label=Profile%20views&color=blueviolet&style=flat" alt="nktushar" /> </p>
 
 <h4 align="left">🔭 Currently working with:</h4>
 <p align="left">  
